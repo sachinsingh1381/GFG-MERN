@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- formating tag -->
+     <b>This is bold</b><br>
+     <strong>This is strong</strong><br>
+    <i>This is italic</i><br>
+    <strong>This is strong</strong><br>
+    <em>This is emphasized</em><br>
+    <mark>This is marked</mark><br>
+    <small>This is small</small><br>
+    <del>This is deleted</del><br>
+    <ins>This is inserted</ins><br>
+    <sub>This is subscript</sub>
+    <p>a<sup>2</sup>+b<sup>2</sup></p><br>
+    <sup>This is superscript</sup><br>
+    <code>This is code</code><br>
+    <samp>This is sample output</samp><br>
+    <kbd>This is keyboard input</kbd><br>
+    <var>This is a variable</var><br>
+    <q>This is a short inline quotation</q><br>
+    <blockquote>This is a block quotation</blockquote><br>
+    <pre>This is preformatted text</pre><br>
+    <a href="#">This is a hyperlink</a><br>
+    <span style="color: red;">This is a span with red text</span><br>
+    <div style="background-color: yellow;">This is a div with yellow background</div><br>
+</body>
+</html>
